@@ -1,2 +1,2 @@
 # on-boarding
-This contains on-boarding related details to thedoers community
+This repository contains the code and resources for the on-boarding process of new team members.
